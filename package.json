@@ -9,6 +9,6 @@
   "author": "Lee Pender",
   "license": "ISC",
   "dependencies": {
-    "gm": "^1.21.1"
+    "gm": "^1.23.1"
   }
 }
